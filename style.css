@@ -1,0 +1,32 @@
+body {
+	background-image: url(IMG_20190521_161220.jpg);
+	background-size: cover;
+	font-size: 133%;
+	line-height: 20px
+}
+
+div {
+	text-align: center;
+	cursor: pointer;
+}
+
+.divborder {
+	border: 5px solid rgba( 255, 176, 170, .69 );
+	/*top right bottom left*/
+		padding: 20px 20px 10px 20px;
+		display: inline-block;
+}
+
+.inlink {
+	display: inline-block;
+}
+
+.register {
+	display: inline-block;
+
+}
+
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css");
+select {
+	font-family: 'FontAwesome'
+}

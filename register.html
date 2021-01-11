@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>wingbird register!</title>
+	<script src="https://kit.fontawesome.com/91bcd11295.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>wingbird registerion form (html!)</h1>
+	</header>
+	<div name="register">
+		<form>
+			<div class="divborder">
+				First Name: <input type="text" name="first"><br>
+				Last Name: <input type="text" name="last"><br>
+				Password: <input type="password" name="password" minlength="5"><br>
+				Email: <input type="email" required name="email"><br>
+			</div>
+			<div class="divborder">
+				<img src="kiwi-bird-solid.svg" height=33px>thday: 
+				<input type="date" name="birthday"><br>
+				<div class="inlink">
+					Gender:<br>
+					<div class="inlink">
+					<input type="radio" name="gender" value="other">other<br>
+					<input type="radio" name="gender" value="male">maler<br>
+					<input type="radio" name="gender" value="female">femaler<br>
+				</div>
+			</div>
+			<div class="divborder">
+				<strong> Per-missions:</strong><br>
+				<input type="checkbox" name="pm-jc"> join classroom (fully live) <br>
+				<input type="checkbox" name="pm-prv"> pre-record video[s?] (video, difficulty level, title, text description) <br>
+				<input type="checkbox" name="pm-mpc"> Masked Person coach/judge (at end of class or after, offer comment, constructive feedback if they want)  <br>
+				<input type="checkbox" name="pm-qa"> Q&A (students encounter your work and ask questions, which after i filter and enhance, you can answer in video, audio, or text) with "n" hours notice. <br>
+				<input type="checkbox" name="pm-uu"> fine, send me your "Unconfusing Updates" (ultimately, clarity)<br>
+				<input type="checkbox" name="pm-cm"> Call Me or message me on our normal way, why are you being so wwweird about this? <br>
+				<input type="checkbox" name="pm-angry"> angry and UNSUBSCRIBE!<br>
+			</div>
+			<div class="divborder">
+				<label for="rating-select">	DropDown Rating (staricons) of Your Experience with Teacher-mode Tippi Fifestarr: </label><br>
+				<select name="rating" id="rating-select">
+					<option value="1">1 &#f5c0;</option>
+					<option name="rating" value="2"><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i>2</option>
+					<option name="rating" value="3"><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i>3</option>
+					<option name="rating" value="4"><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i>4</option>
+					<option name="rating" value="5"><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i><i class="fas fa-star-half-alt"></i>5</option>
+				</select><br>
+			</div>
+			<input type="submit" value="resister!">
+			<input type="reset">
+		</form>
+	</div>
+	<nav>
+		<a href="index.html">back to home</a>
+	</nav>
+</body>
+</html>
