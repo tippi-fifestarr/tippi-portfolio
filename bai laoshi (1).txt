@@ -1,20 +1,26 @@
 new version for the kids:
-WC&MP landing page for the kids: 
-boring explain story text: What is WC&MP? World Culture & Music Production.  On the first day, I asked each student what they wanted to get out of the class; four answered blah blah "music production" and one said "learning to learn" (not exactly).  So, I adjusted.  Only those who experienced it know if the amount of World and Culture increased or decreased!
-human and reasonable goals of a simple, flexible and building structure: between classes, all participants must sacrifice time, energy and focus working on the course.  during class, mix of surprising lecture, difficult or confusing activity, repeated emphasis and wasted opportunities for questions about "homework", "lecture", or "activity".  Not-guaranteed problem solving at first attempt.  Frustration.  Forming, storming, norming as much as possible as students fall into their roles, finally performing. Ask each student to share their story of "why we failed" or "what we gained" and "how i've grown".  
-next step: if the band is to survive, we all must be clear on our roles, strengths and weakness. luckily, through honesty, practice and repeated meetings, this knowledge will easily emerge. a challenge:  5 students vs 1 teacher, same time limit.  each student can control one element or instrument, up to 5.  teacher can use up to 5 elements.  at the end of time, must have recieved art(ist)name-trackname(0).wav correctly formatted with "comment" and "img".  students "band" and teacher "one-ren-band". 
+
+WC&MP landing page for the kids: presented as text.  future versions will be question boxes, on answering, student will be shown the official "answer" text.
+
+slogan: "WC&MP : more than mp3s & memes"
+
+boring explain story text: What is WC&MP: the online course?  You may have guessed, it means World Culture & Music Production. It already happened once in Winter 2020, is cyclical and revolutionary in nature, and "students" On the first day, I asked each student what they wanted to get out of the class; four answered blah blah "music production" and one said "learning to learn" (not exactly). Wonderfully clear and simple. So, I adjusted. Only those who experienced it know if the amount of World and Culture increased or decreased!
+
+human and reasonable goals of a simple, flexible and ever-building structure: between classes, all participants must sacrifice time, energy and focus working on the course. duh? the way of was a mix of surprising lecture, difficult or "confusing" (vague or open-ended) activity, repeated emphasis and wasted opportunities for questions about "homework", "lecture", or "activity". Not-guaranteed problem solving at first attempt.  Frustration.  Forming, storming, norming as much as possible as students fall into their roles, finally performing. Ask each student to share their story of "why we failed" or "what we gained" and "how i've grown".  At the end of the course, do you know the intentions and capabilities of your teacher?  How about yourself?  Classmates?  Wingbirds?
+
+next step: if the band is to survive, we all must be clear on our roles, strengths and weakness. luckily, through honesty, practice and repeated meetings, this knowledge will easily emerge. a challenge:  5 students vs 1 teacher, same time limit.  each student can control one element or instrument, up to 5.  teacher can use up to 5 elements.  at the end of time, must have recieved art(ist)name-trackname(0).wav correctly formatted with "comment" and "img".  students "band" and teacher "one-man-band". 
+
 reward: if students win (or achieve noteworthy length, completion, interestingness, understandablity, emotion, etc) they can win up to 10 (5x2) free classes.  If they lose, they must admit they still suck at producing and continue to pay teacher.
+
 ratings: at the end of each class, everybody gets this RATINGS PAGE: *****, any * less than 5 requires one "why" text comment of reasonable length and time.  
 Each day and after finishing the ratings, or after the course is over, access is granted to World Map and Wingbird Missions.
 
 
-
-
-bai laoshi (01.04)+(01.05)+(01.06)
+page for bai laoshi (01.04)+(01.05)+(01.06) +(01.13)
 inspired by my work in 2020 (we did it!)
 and your willingness to look at the website i'm building,
 I decided to build you a specific landing page:
-first, a question about a tonal position to spark motivation and frame the journey: 
+first, a question about a character (or tonal position) to spark motivation and frame the journey: 
 
  In addition to "mysterious or confusing", how about "obviously challenging" and "inpractical? unbelievable! deconstructable?"? 
 
@@ -24,7 +30,7 @@ ______________________ [done writing my comment]
 
 specifically important for me is that the curriculum (or "website") needs to be focused and reasonable.
 
-it seems reasonable that I can focus on 3 keys.  Each key can unlock any door that requires it.
+it seems reasonable that I can focus on 3 keys.  Each key is always present but directly encountered in order.  Each key can unlock any door (eg, places on the website, functions, customization) that requires it.
 "keys open doors" is not a key, but it will be repeated thematically throughout the course (website).
 
 the first key is "who are you" 
@@ -35,9 +41,9 @@ the first key is "who are you"
 		get to know the students, let them know me (through stories, heart connection, and what I choose to promise them), and let them know each other + work together.
 		-fun, confusing, class time is not used to produce "music"
 
-		[no "homework" assigned by me, in the beginning of each class after teacher ask each of them how they are, if they haven't told me, then can ask them something like "how have you been? what have you been up to?"]->(cool/curious continuum) at the end of day TA writes or draws awareness of the student's
+		[no "homework" assigned by me, in the beginning of each class after teacher ask each of them how they are, if they haven't told me, then can ask them something like "how have you been? what have you been up to?"]->(cool/curious continuum) at the end of day TA writes or draws awareness of the student's power levels, environment 
 		
-		{in-class activities include listening to the teacher talk about seemingly random topics, writing about their current hobbies and future hobbies; listing 34 verbs they like; writing (and then later recording a sound for/of) all the nouns they can find in their room and later one other room in their house; identifying adjectives to describe themselves; choosing adjectives and adverbs to describe their "artist name"; working together to tell a folk story from their culture (words and background image/music); working on a mask for 6 minutes, 5 minutes, and 4 minutes (and each time, choosing to start anew or continue work on the old); assembling an ordered playlist (artist name - track title + comment); choosing a favorite humorous moment from a movie; committing to one small shift in their mindset; wishing "it" was easier; wishing they were better; creating verb object pairs of things they did or want to do; presenting about a lesson from the Ableton website; favorite foods; favorite food they can cook; taking an "impossible" quiz generated from students answers to most of the questions above}
+		{in-class activities include listening to the teacher talk about seemingly random topics, writing about their current hobbies and future hobbies; listing 34 verbs they like; writing (and then later recording a sound for/of) all the nouns they can find in their room and later one other room in their house; identifying adjectives to describe themselves; choosing adjectives and adverbs to describe their "artist name"; working together to tell a folk story from their culture (words and background image/music); working on a mask for 6 minutes, 5 minutes, and 4 minutes (and each time, choosing to start anew or continue work on the old); assembling an ordered playlist (artist name - track title + comment); choosing a favorite humorous moment from a movie; committing to one small shift in their mindset; wishing "it" was easier; wishing they were better; creating verb object pairs of things they did or want to do; presenting about a lesson from the Ableton website; favorite foods; favorite color; favorite food they can cook; taking an "impossible" quiz generated from students answers to most of the questions above}
 
 the second key is "homework" 
 	(:why not the laws of thermodynamics?)
@@ -54,8 +60,11 @@ the second key is "homework"
 
 the third key is "get it together" 
 	(:how much % like that song can you?)
+	(:teamwork makes the _____ work?)
 
-	its okay to be disturbed. its awesome to fail (you tried!). let anger motivate you.  we make stronger decisions running away from pain rather than chasing pleasure (we either want to move away from pain or towards pleasure). all change starts with being honest? what are your priorities?
+	"it's okay to be disturbed or even uncomfortable." why? and for how long?  
+	"its awesome to fail (you tried!)." How would you retell the story of David's run? 
+	let anger motivate you.  we make stronger decisions running away from pain rather than chasing pleasure (we either want to move away from pain or towards pleasure). all change starts with being honest? what are your priorities?
 
 family spent 2020  - online-class technology and teaching languages
 2021 plans

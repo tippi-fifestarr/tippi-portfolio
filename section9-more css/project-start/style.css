@@ -1,30 +1,19 @@
-.body {
-    align-items: center;
+body {
+    margin: auto 0;
 }
 
-.container {
+/*.container {
     display: grid;
-    gap: 10px;
-/*    grid-template-columns: repeat(4, 1fr);*/
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-template-rows: 1fr;
-}
-
-.green {
-    grid-column: span 2;
-    grid-row: span 2;
-}
-
-.poop-text {
-    margin-top: .3em;
-    color: blanchedalmond;
-}
+    grid-template-rows: 69px 3fr 4fr 1fr
+}*/
 
 .zone {
+  /*  padding:10px 10px;
+    margin: 0;*/
     cursor:pointer;
-/*    display:block;*/
-    text-align: center;
-    font-size:10em;
+/*    display:inline-block;*/
+    color:#FFF;
+    font-size:2em;
     border-radius:4px;
     border:1px solid #bbb;
     transition: all 0.3s linear;
@@ -36,7 +25,6 @@
     -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
     box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
 }
-
 
 /*https://paulund.co.uk/how-to-create-shiny-css-buttons*/
 /***********************************************************************
@@ -50,6 +38,9 @@
     background: -o-linear-gradient(top, #56B870 0%,#a5c956 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, #56B870 0%,#a5c956 100%); /* IE10+ */
     background: linear-gradient(top, #56B870 0%,#a5c956 100%); /* W3C */
+    /*margin: .1em*/
+    
+    
 }
 
 /***********************************************************************
@@ -63,7 +54,7 @@
     background: -o-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, #C655BE 0%,#cf0404 100%); /* IE10+ */
     background: linear-gradient(top, #C655BE 0%,#cf0404 100%); /* W3C */
-}
+   }
 
 /***********************************************************************
  *  Yellow Background
@@ -91,29 +82,69 @@
     background: linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C */
 }
 
-/***********************************************************************
- *  Purple Background
- **********************************************************************/
-.purple {
-    background: #A88BEB; /* Old browsers */
-    background: -moz-linear-gradient(top, #A88BEB 0%, #F1A7F1 44%, #F8CEEC 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#A88BEB), color-stop(44%,#F1A7F1), color-stop(100%,#F8CEEC)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, #A88BEB 0%,#F1A7F1 44%,#F8CEEC 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, #A88BEB 0%,#F1A7F1 44%,#F8CEEC 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, #A88BEB 0%,#F1A7F1 44%,#F8CEEC 100%); /* IE10+ */
-    background: linear-gradient(top, #A88BEB 0%,#F1A7F1 44%,#F8CEEC 100%); /* W3C */
+
+/* NAV */
+.leftside {
+    display: flex;
+    list-style: none;
+    font-size: 0.7em;
+    margin: 0;
 }
 
-/***********************************************************************
- *  Brown Background
- **********************************************************************/
-.brown {
-    background: #f6e6b4; /* Old browsers */
-    background: -moz-linear-gradient(top, #f6e6b4 0%, #ed9017 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6e6b4), color-stop(100%,#ed9017)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* IE10+ */
-    background: linear-gradient(top, #f6e6b4 0%,#ed9017 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6e6b4', endColorstr='#ed9017',GradientType=0 ); /* IE6-9 */
+@media only screen and (max-width: 600px) {
+    .leftside {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+li {
+    padding: 18px;
+}
+
+a {
+    color: #f5f5f6;
+    text-decoration: none;
+}
+
+.rightside {
+    margin-left: auto;
+}
+
+img {
+    height: 55vh;
+    margin: 18px;
+    padding: 18px;
+}
+
+/*COVER*/
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 69vh;
+}
+
+/*GRID */
+
+.grid-wrapper {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
+.box > img {
+    width: 100%;
+    height: auto;
+}
+
+.box {
+    background-color: #444;
+    padding: 130px;
+    margin: 18px;
+}
+
+footer {
+    text-align: center;
 }
