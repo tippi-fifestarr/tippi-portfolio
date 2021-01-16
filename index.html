@@ -2,11 +2,12 @@
 <html>
 <head>
 	<title>tippi's portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<h1>press the number on your keyboard to select</h1>
+	<h1>press the number on your keyboard to select</h1><label>selector<input id="inputbox" type="text" placeholder="type here"></input></label>
 	<ol>
-		<li>this is an archive of my projects before ZTM2021: ____________</li>
+		<li id="before">this is an archive of my projects before ZTM2021: ____________</li>
 		<ul>
 			<li>brain_train</li>
 			<li>to-do list</li>
@@ -16,8 +17,9 @@
 			<img src="https://www.boober.org/images/twinmode.png" alt="dadeuce 'twinmode' code excerpt" width="420">
 			<li>FERN->unFERN</li>
 		</ul><hr>
-		<li>this website and these "other links", produced during ZTM2021</li><br>
-		<li>long term projects, history, and a somewhat useful roadmap</li><hr>
+		<li id="during">this website and these "other links", produced during ZTM2021</li><br>
+		<li id="after">long term projects, history, and a somewhat useful roadmap</li><hr>
 	</ol>
+	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>
