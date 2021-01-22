@@ -46,6 +46,25 @@ function addListAfterClick() {
 	}
 }
 
+// broken switch use version
+// function addListAfterKeypress(event) {
+// 	if (inputLength() > 0){
+// 		switch (event.keyCode) {
+// 			case 13 :
+// 				createListElement();
+// 				break;
+// 			case 84 :
+// 				alert("you have pressed one of my favorite letters and drinks")
+// 				break;
+// 			case 80 :
+// 				alert("pp!")
+// 		}
+// 	} else {
+// 		alert("nolist@~!")
+// 	}
+// }
+
+// working version
 function addListAfterKeypress(event) {
 	if (inputLength() > 0 && event.keyCode === 13) {
 		createListElement();

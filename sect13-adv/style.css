@@ -1,0 +1,42 @@
+body {
+	margin: 0px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: flex-end;
+}
+
+h1 {
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+}
+
+img {
+	width: 450px;
+	height: 300px;
+	margin: 12px;
+	transition: all 1s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+.menu {
+	display: flex;
+	justify-content: right;
+	align-items: flex-end;
+	margin: 33px;
+}
+
+.button {
+	margin: 3px;font-size: 2em
+}
