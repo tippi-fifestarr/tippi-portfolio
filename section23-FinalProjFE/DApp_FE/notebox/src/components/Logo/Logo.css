@@ -1,0 +1,9 @@
+.Tilt {
+    background-color: red;
+  background-image:
+    radial-gradient(
+      circle at top right,
+      green, yellow 34%,
+      #f02906 69%
+    );
+}

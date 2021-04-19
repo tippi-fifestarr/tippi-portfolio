@@ -1,0 +1,25 @@
+Tippi Fifestarr
+
+    
+DevOps is a set of software development practices that help simplify development and operation, shorten the development lifecycle and reduce costs. [Sources: 0] 
+    
+As part of the frontend, it is mandatory for developers to be good at HTML, CSS and Javascript, but it is also good if they are able to add chart visualization capabilities to your website. Currently, 34 percent of all websites worldwide are created with WordPress, which uses PHP as its programming language. While PHP is still the most widely used language for developing WordPress websites, PHP is not always used for the backend. [Sources: 0] 
+    
+It is good to be familiar with SQL databases, so you should be familiar with them and you will have access to a number of popular SQL databases such as SQLite, SQL Server, MySQL, MongoDB, PostgreSQL and neo 4J. You should also be familiar with the popular MySQL and Neo 4j databases, especially for the front end and backend. [Sources: 0] 
+    
+On the back you have a number of options to choose from, from which I will mention some popular technologies that you can use to develop the backend. You should be familiar with some of the popular front-end technologies such as SQLite, SQL Server, MySQL, MongoDB, PostgreSQL and Neo 4j. [Sources: 0] 
+    
+First you have the Python stack, which had a number of different versions, such as Python 2, Python 3 and Python 4. Next we have a Java stack consisting of Java, Java 2 and Java 3, and a few other popular Java libraries. And next we have a netstack consisting of net, net2 and net3, as well as some of the popular Net2 libraries like net4 and Net3. [Sources: 0] 
+    
+Agile methodology that helps to break the product down into several available parts to ensure that all are on the same line in the development of the final product. Object Relational Mapping (also called Object - Relative Mappings) is a tool that helps you interact with the database directly through your preferred programming language without learning SQL or a structured query language. Both are useful for interacting with a database without a preferred language. The Kite plugin integrates with top editors and IDEs, providing intelligent completion and documentation as you type. [Sources: 0] 
+    
+
+
+
+
+
+Sources:
+    
+[0]: https://kzburn.info/chart/skills-needed-for-full-stack-developer/lrNvscuosrKeq58.html
+    
+

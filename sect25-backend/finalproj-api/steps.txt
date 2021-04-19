@@ -1,0 +1,29 @@
+step1: create folder and npm init
+step2: npm install required stuff like express and maybe nodemon (devdependencies?)
+step3: basic code in app require(express) whats the modern import way to do this?
+step4: get it listening somewhere (3000?)
+step5: simple app.get(res.send('this is working)) 
+step6: checkit in postman?  why not just our browser?
+step7: really plan it out (endpoints):
+    /--> res = this is working
+    /signin --> POST = success/fail
+    /register --> POST (to database) = user (return the user obj to make sure it works)
+    /profile/:userId --> GET = user
+    what about with the ranking (is this displayed on profile?)
+    /image --> PUT (update the score) --> updated user obj
+step8: start doing the routes starting with /signin (checking with postman so that we don't need to worry about connecting to the front end until we done)
+step9: something about res.json
+step10: create a sample object array of objects
+step11: think about what we are going to send *from postman* (email and password) and the logic of what we are checking (for signin is something )
+step12: write the if posted value === database.value for email and password.  made sure to use express.json() middleware
+step13: think about how this simple checker is for just whatever user is in [0], remember that its good to have a database that can do that search for us 
+step14: register, remember what the post request will look like from front end, and then simulate from postman. 
+step15: using destructuring from req.body create variables to push into the existing database object structure
+step16: check in postman! did you forget to send a response?!  respond with the user.
+step17: check everything is working by sending the new user file to the root get /, and be aware that everytime we start the server it loses everything (persistence!)
+--pain points of not using database--
+looping through values to find and compare, losing data through lack of persistance!
+step18: set up the profile, check if the id in the params is valid.
+step19: do the /image PUT: set up the 'user.entries' increaser, copy the code for id checking
+step20: change the code to get id from the req.body instead of params
+step21: entries++

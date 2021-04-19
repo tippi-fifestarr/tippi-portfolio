@@ -1,0 +1,21 @@
+this is a section on my blog:
+
+1 simple explainations of what i read:
+https://www.devbridge.com/articles/tonejs-coding-music-production-guide/
+
+coding passion & music production
+quick set up (hello tone)
+what is a transport?
+"think of Transport as a track; it's something that keeps the timing of musical events. You may have noticed that you didn't initialize the Transport instance anywhere. That is because a single instance of it is always created when the framework is initialized. "
+
+makes something more complex, mainly just to show you the transport and timing aspects.
+
+my goal is principles, so this is one of them.
+
+creating chords (ableton chords module and guitar app from recursiveArts as inspo)
+basically, each "chordKiwi" has ~3 boxes with values: shift(-/+) & vol%(0.0% to 200%), so whatever the triggered value of the keyboard note ()
+
+
+2 stackReader theory & practice
+
+

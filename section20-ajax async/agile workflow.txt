@@ -1,0 +1,59 @@
+
+
+agile: what is scrum? | agile
+https://www.youtube.com/watch?v=oTZd2vo3FQU
+
+lightweight framework
+its practiced everywhere
+one scrum guide (read this!)
+study guide link https://www.scrumguides.org/
+discovered a glossary quizlet: https://quizlet.com/280838102/learn
+after doing 8 cards, i got 7 right on the first guess (from multiple choice)
+
+back to vid:
+rename pomodoro to "sprint"
+prioritize requirements into Product Backlog
+define sprint time & do planning into a "sprint backlog"
+start sprinting => potentially deployable product
+small team ~6-7 people
+goes to sprint review 
+then give the first increment (and push any backlog into the next sprint)
+before the next sprint, you'll be doing a retrospective:
+what worked well?
+what could be improved?
+what will we commit to doing in the next one (actionable commitments)
+
+did some trello work, sent screenshot to danjo
+then switched to this vid: https://www.youtube.com/watch?v=pwpW48DcAGg
+
+agile scrum is a component of agile philosophy
+can frequently modify
+values individuals over tools
+
+project owner
+scrum master -> make sure things are running smoothly, teambuilding, communicating especially between owner and dev team
+dev team
+stakeholders
+
+after watching all that the simplest way to put it:
+
+
+state for the modal
+
+
+
+rules: the code finder
+concensus.
+the senses.
+honorableton.com
+themed by season.
+calandar.
+glossary by students
+not sitting marathons.
+segmented and modular.
+side-missions
+obvious main goal
+memorable characters
+opening class photo
+history of the concept as told by
+dynamicly generated syllabi

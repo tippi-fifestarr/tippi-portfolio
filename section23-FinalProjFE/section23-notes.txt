@@ -1,0 +1,46 @@
+Section23: SmartBrain Front-End
+254 vid, welcome back to the beautiful app.
+add the functionality of transfering a url through ImageLinkForm to API 
+step one, construct with state
+we need state.
+app "remembers" and updates as its changed
+so, is it just me or are things different when he starts this project?  like the app extends Component with required render() { ... }
+anyways, solved that problem!
+ anytime theressome sort of eventlistener on a webpage, we recieve an event
+{/* remember to give it this. so its state transfered  */}
+updated the type of const ___ = ({ props }) 
+ and put an onchange (technically: a react synthetic event) in the inputbar.  
+console.log(event.target.value)
+boom!
+detect an image how we gonna do it.
+next step is one thing at a time
+first step is make onDetectPressed (his was originally onSubmit then he changed it to OnButtonSubmit)
+
+then passed it through to the element as props this.oDP and then we , add the props in the ImageLF and onto the button we give an onclick!
+
+now lets think about clarifai free limits per month.  once app is popular, can start paying for it.  webdev is the low level wizard using things other people or huge bizness make.
+so make an account.
+
+
+
+253 QuickNote on the UpdatedAPI
+
+1. I have added a troubleshooting video for you to watch after the next one: Clarifai API Updates, Models and Troubleshooting. This video will go over some of the Clarifai Website updates plus some common errors that students might get in the next video. One thing you will notice is that for marketing reasons, they have changed their Predict model we will be using to Armada Predict...ohhh fancy!
+
+2. Clarifai recently added new client APIs. Their newest version would require us to run npm install clarifai-nodejs-grpc vs what you will see in the upcoming video which is npm install clarifai. As I said, different packages but they both do the same thing. Because this change is fairly new, we want to wait for the newer version to stabilize before using it. Therefore we are going to continue to use npm install clarifai since it still works and has no issues moving forward. I will be creating an updated video once Clarifai changes are stable. This happens a lot in the industry and whenever you see things like "NOTE: For node.js users, this API Client is no longer supported," it simply means that they are not adding new features to it, but the library will still work.
+
+3. Sometimes the Clarifai Models can be down or not working as they are constantly getting updated. A good way to check if the model you are using is up, is to check them on the clarifai website. For example, for the Face Detect Mode: https://www.clarifai.com/models/face-detection. If that isn't working, then that means you will have to wait until their servers are back up. Another solution is to use a different version of their model that works like this one: `c0c0ac362b03416da06ab3fa36fb58e3`.
+
+So compared to what you might see in the next video you might have to enter the above key:
+
+so you would change from in the video:
+
+.predict(Clarifai.FACE_DETECT_MODEL, this.state.input)
+
+to:
+
+.predict('c0c0ac362b03416da06ab3fa36fb58e3', this.state.input)
+
+
+
+You will see when you get there in the next video :)

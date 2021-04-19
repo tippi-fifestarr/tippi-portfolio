@@ -1,0 +1,14 @@
+readme's to get us started
+troubleshooting
+provide working code
+get the main api key
+all the scope checked
+just add it to the source in the api file
+can get it from andre's github at any time.
+if a bug is happening, check to make sure the current model is working
+try the general model !
+
+
+clarifai ai email reachout
+one week project
+begin today final project

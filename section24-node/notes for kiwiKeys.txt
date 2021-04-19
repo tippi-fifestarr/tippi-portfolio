@@ -1,0 +1,13 @@
+notes for kiwiKeys
+
+wouldn't it be faster to fetch the urls (or load into the buffer) from our own server rather than another place (might have to hop) how to reduce this time?
+
+Sampler Automatically interpolates between a set of pitched samples. Pass in an object which maps the note’s pitch or midi value to the url, then you can trigger the attack and release of that note like other instruments. By automatically repitching the samples, it is possible to play pitches which were not explicitly included which can save loading time. For sample or buffer playback where repitching is not necessary, use Tone.Player.
+
+https://www.youtube.com/watch?v=JUD8FoCzr2Q
+
+Contact
+
+I’m always looking for opportunities and collaborators doing something new and exciting with music. If this is you, please reach out; I’d love to talk.
+
+hi@yotammann.info
